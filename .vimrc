@@ -1,4 +1,4 @@
-" Xemt, 3/5/24 - 9/11/24.
+" Xemt, 3/5/24 - 2/22/25.
 
 " Constant variables:
 
@@ -57,7 +57,7 @@ set noruler
 set hlsearch
 
 " MacOS Vim has a tendency to display a message
-" with stuff about the message maintainers. Annoying.
+" with stuff about the message maintainers... how annoying.
 if has("macunix") is 0
 	messages
 end
